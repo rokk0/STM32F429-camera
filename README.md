@@ -1,0 +1,1 @@
+OV7720 camera connected to STM32F429i-DISCO board via DCMI interface, using DMA transfer. LCD uses SPI interface, because of LTDC and DCMI pin conflict. Project generated with STM32CubeMX for Keil MDK-ARM v5.
